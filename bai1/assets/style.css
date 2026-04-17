@@ -1,0 +1,24 @@
+.nav{
+    display: flex;
+}
+.g-10{
+    gap:20px;
+}
+.text-decoration-none{
+    text-decoration: none;
+}
+.list-style-type-none{
+    list-style-type: none;
+}
+.header{
+    display: flex;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.txt-black{
+    color:black;
+}
